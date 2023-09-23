@@ -12,7 +12,7 @@
   - Program meminta pengguna untuk memasukkan nama mereka melalui input.
     ![Alt text](<Login sederhana 1.png>)
 
-  - Selanjutnya, program ini menggunakan loop while untuk meminta NIM pengguna. Loop ini akan terus berjalan sampai pengguna memasukkan NIM yang valid (hanya           angka). Disini saya menggunakan .isdigit() yang berguna untuk memeriksa apakah sebuah string hanya memiliki angka atau tidak, jika pada string itu hanya            mengandung angka maka akan bernilai True dan jika memiliki seenggaknya satu saja karakter yang bukan merupakan angka nilai yang akan dihasilkan adalah False.
+  - Selanjutnya, program ini menggunakan loop while untuk meminta NIM pengguna. Loop ini akan terus berjalan sampai pengguna memasukkan NIM yang valid (hanya angka). Disini saya menggunakan .isdigit() yang berguna untuk memeriksa apakah sebuah string hanya memiliki angka atau tidak, jika pada string itu hanya mengandung angka maka akan bernilai True dan jika memiliki seenggaknya satu saja karakter yang bukan merupakan angka nilai yang akan dihasilkan adalah False.
     ![Alt text](<Login sederhana 2.png>)
          
   - Setelah NIM yang valid dimasukkan, program meminta masukan kelas melalui input.
@@ -42,3 +42,6 @@
 
   - Hasil perhitungan tersebut dicetak ke layar bersama dengan pesan yang sesuai.
     ![Alt text](<Perhitungan Rumus segitiga Pythagoras 3.png>)
+
+    Jika salah satu input bukan merupakan Float maka akan terjadi error seperti contoh dibawah :
+    ![Alt text](<Perhitungan Rumus segitiga Pythagoras 3 error.png>)
