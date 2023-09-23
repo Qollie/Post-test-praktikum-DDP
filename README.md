@@ -8,7 +8,7 @@
 
   Pada program ini saya juga menggunakan perulangan while pada Input NIM dan Input saat pemilihan sisi yang ingin dihitung
 
-  ###1. Login sederhana
+  ### 1. Login sederhana
   - Program meminta pengguna untuk memasukkan nama mereka melalui input.
     ![Alt text](Login sederhana 1.png)
 
@@ -21,7 +21,7 @@
   - Program mencetak informasi yang telah dimasukkan, yaitu nama, NIM, dan kelas.
     ![Alt text](Login sederhana 4.png)
 
-  ###2. Perhitungan Rumus segitiga Pythagoras
+  ### 2. Perhitungan Rumus segitiga Pythagoras
         
   - Program ini menggunakan loop while (kedua) untuk meminta pengguna memilih sisi yang ingin dihitung dalam segitiga     (alas, tegak, atau miring).
     ![Alt text](Perhitungan Rumus segitiga Pythagoras 1.png)
