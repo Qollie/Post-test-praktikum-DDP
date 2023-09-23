@@ -30,7 +30,7 @@
     (misalnya jika ingin mencari alas akan diminta untuk memasukan panjang sisi tegak dan sisi miring).
 
     - Mencari sisi alas ((sisi miring² - sisi tegak²) x 0.5)
-      ![Alt text](<Perhitungan Rumus segitiga Pythagoras 2.png>)
+      ![Alt text](<Perhitungan Rumus segitiga Pythagoras 2 alas.png>)
 
     - Mencari sisi tegak ((sisi  miring² - sisi alas²) x 0.5)
       ![Alt text](<Perhitungan Rumus segitiga Pythagoras 2 tegak.png>)
