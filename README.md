@@ -1,7 +1,7 @@
 # Post-test-praktikum-DDP
 
 ## Flowchart
-![Alt text](<Segitiga Pythagoras.png>)
+(<Segitiga Pythagoras.png>)
 
 ## Penjelasan Output beserta Screenshot an nya
   Program python yang saya buat ini memiliki Login sederhana dan memungkinkan user untuk menghitung panjang sisi segitiga siku-siku, dengan menggunakan panjang dua   sisi lainnya. Program ini menggunakan teorema Pythagoras untuk melakukan perhitungan.
