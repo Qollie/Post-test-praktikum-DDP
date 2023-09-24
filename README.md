@@ -43,5 +43,5 @@
   - Hasil perhitungan tersebut dicetak ke layar bersama dengan pesan yang sesuai.
     ![Alt text](<Perhitungan Rumus segitiga Pythagoras 3.png>)
 
-    Jika salah satu input bukan merupakan Float maka akan terjadi error seperti contoh dibawah :
-    ![Alt text](<Perhitungan Rumus segitiga Pythagoras 3 error.png>)
+    Jika salah satu input bukan merupakan Float maka akan terjadi perulangan sampai user memasukan input yang benar seperti contoh dibawah :
+    ![Alt text](<Perhitungan Rumus segitiga Pythagoras 3 wrong input loop.png>)
